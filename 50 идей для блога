@@ -1,0 +1,72 @@
+Туториалы и HOW-TO по Jetpack Animations
+
+-Основы создания анимаций в Jetpack Compose
+-Анимация из приложения Сбербанк на Jetpack Compose
+-Анимация секундомера
+-Архитектурные подходы и принципы создания приложений с красивыми анимациями
+-Как сделать анимацию нажатия на кнопки как в телеграм
+-Создание анимированных диаграмм на Jetpack Compose
+-Анимация заполнения топливного бака на Jetpack Compose
+-Анимированный фон элемента как у сбер карты
+-Анимация счетов при переходе в сбер бюджет
+-Анимация нажатия на элемент как в 2ГИС
+-Анимация при входе в приложение билайн
+-Анимация магазина приложения Билайн
+-Анимация Shazam на Compose
+-Анимация ежедневной награды Plantie
+-Анимация летающего дерева Plantie
+-Тестирование анимаций Compose
+-Инструменты поддержки работы с анимациями Compose
+-Работа с жестами
+-Анимация переходов между экранами
+-CashApp с перетаскиванием монеток
+-Анимации в диалоговых окнах
+-Pager Animations. Разбор статьи https://www.sinasamaki.com/pager-animations/
+
+Обзоры библиотек для работы с анимациями
+-Orbital https://androidrepo.com/repo/skvdoves-Orbital
+-Heart Switch https://github.com/popovantonO/heart-switch
+-Flippable https: // github .com/wai ahatkarim3/Flippable
+-Accompanist https://google.github.io/accompanist/navigation-animation/
+
+Полезные ресурсы no Compose, связанные с анимациями
+-https://www.jetpackcompose.app/Animation-libraries-in-Jetpack-Compose
+
+Бизнес-темы
+-В каких приложениях лучше использовать анимации и какие?
+
+Работа с картинками и графикой в Compose
+-Кастомизация картинок
+-Оптимизация производительности приложений с картинками
+-Работа с графикой и Canvas, создание собственных изображений
+-Custom Layouts and graphics in compose - разбор примера c Android dev summit 2022
+
+Работа с Media в compose
+-Jetpack Media 3. Разбор статьи https://medium.com/backvardprogrammers/media3-exoplaver-in-jetpack-compose-to-make-snapchat-spotlight-75e384e2ef56
+-Конвертация в различные форматы и применение эффектов к видео
+
+Вопросы с собеседований
+-Вопросы с собеседований по Jetpack Compose
+
+Проблемы разработчиков
+-С помощью чего разрабатывать графику и анимации - Custom View или Jetpack Compose?
+
+Архитектура UI-слоя
+-Lifecycle
+-Side Effects
+-Phases
+-Managing State
+-Architecture
+-Architectural Layering
+-CompositionLocal
+-Navigation
+-Архитектурные паттерны при работе с Compose UI 
+
+Прогнозы
+-Прогноз развития Compose 2023-2024 
+
+Темы 
+-Compose Material Design 3 - отличия от Material Design 2
+-Custom Theming
+-Anatomy of Theming
+-Migrating XML to Compose
